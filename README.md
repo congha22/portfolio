@@ -54,13 +54,13 @@ NKU Inkubator Program | **May 2023 – Sep 2023**
 
 ## Projects
 
-### [Project 1: Personal Growth Chatbot](https://github.com/yourgithubusername/yourproject)
+### Project 1: Personal Growth Chatbot
 - A chatbot designed to enhance students' personal growth using AI, with features such as goal-setting and task management.
 
-### [Project 2: Nex1 LLC Chatbot](https://github.com/yourgithubusername/yourproject)
+### Project 2: Nex1 LLC Chatbot
 - An AI-powered front desk assistant that integrates with business data and reduces labor costs by 90%.
 
-### [Project 3: TRUE ACCESS Website](https://github.com/yourgithubusername/yourproject)
+### Project 3: TRUE ACCESS Website
 - Developed a project website to facilitate communication and resources for stakeholders involved in the TRUE ACCESS project.
 
 ## Contact
