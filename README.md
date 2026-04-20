@@ -13,7 +13,7 @@ You can reach me at:
 ## Education
 
 - **BS in Computer Science**, Minor in Computer Information Technology, Northern Kentucky University (2019 - 2023)
-- **MS in Computer Science**, Northern Kentucky University (2024 - 2025)
+- **MS in Computer Science**, Northern Kentucky University (2024 - 2026)
 
 ## Skills
 
